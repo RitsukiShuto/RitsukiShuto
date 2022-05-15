@@ -1,5 +1,4 @@
-### Hi, there 👋 I'm Ritsuki Shuto
-### Welcome to my repository!!
+### Hi, there 👋 I'm Ritsuki Shuto.
 
 - 📍 Kumamoto, Japan
 - 🧪 Machine learning & Mobile application

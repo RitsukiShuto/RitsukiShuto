@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I'm RitsukiShuto</h1>
 
-[![](https://raw.githubusercontent.com/RitsukiShuto/RitsukiShuto/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RitsukiShuto/RitsukiShuto/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitsukiShuto&layout=compact&count_private=true&show_icons=true&theme=onedark" />

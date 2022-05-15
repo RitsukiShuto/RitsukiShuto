@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm RitsukiShuto</h1>
 
-![](https://raw.githubusercontent.com/RitsukiShuto/RitsukiShuto/main/profile-summary-card-output/github/0-profile-details.svg)
+![More themes](https://raw.githubusercontent.com/RitsukiShuto/RitsukiShuto/main/profile-summary-card-output/github/0-profile-details.svg)
 
 
 <p align="left"> 

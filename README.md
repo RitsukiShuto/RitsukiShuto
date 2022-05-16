@@ -1,7 +1,7 @@
 ### Hi, there 👋 I'm Ritsuki Shuto.
 
-- 📍 Kumamoto, Japan
-- 🧪 Machine learning & Mobile application
+- 📍 Kumamoto Japan
+- 🧪 Machine learning, Mobile application
 - 🧡 Python, Flutter, C, Java
 - 📝 Visual Studio Code
 - 🎧 The Beatles, Yellow Magic Orchestra

@@ -2,7 +2,7 @@
 
 - 📍 Kumamoto Japan
 - 🧪 Machine learning, Mobile application
-- 🧡 Python, Flutter, C, Java
+- 🧡 Python, Flutter, C
 - 📝 Visual Studio Code
 
 [![](https://raw.githubusercontent.com/RitsukiShuto/RitsukiShuto/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

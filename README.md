@@ -1,4 +1,5 @@
 # Hi, there 👋 I'm Ritsuki Shuto.
+Software engineer in Oita, Japan.
 
 ## Field
 - 📍 Oita Japan

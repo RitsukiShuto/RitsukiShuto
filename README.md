@@ -8,8 +8,8 @@ Software engineer in Oita, Japan.
 - 🛠️ TensorFlow, Keras, Flutter
 - 📝 VS Code, Eclipce
 
-## Achievements
-- [Semi-supervised multi-modal learning for emotion estimation](https://github.com/RitsukiShuto/MultimodalEmotionRecognition)
+## Recent Achievements
+### [Semi-supervised multi-modal learning for emotion estimation](https://github.com/RitsukiShuto/Multimodal_Emotion_Recognition)
 
 ## Summary of my repository
 [![](https://raw.githubusercontent.com/RitsukiShuto/RitsukiShuto/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

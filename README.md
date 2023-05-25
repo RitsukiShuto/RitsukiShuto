@@ -1,14 +1,14 @@
 # Hi, there 👋 I'm Ritsuki Shuto.
 Software engineer in Oita, Japan.
 
-## Field
+## About me
 - 📍 Oita Japan
 - 🧪 ML, Mobile App
 - 🧡 Python, Dart, Java, etc...
 - 🛠️ TensorFlow, Keras, Flutter
 - 📝 VS Code, Eclipce
 
-## Recent Achievements
+## Recent achievements
 ### [Semi-supervised multi-modal learning for emotion estimation](https://github.com/RitsukiShuto/Multimodal_Emotion_Recognition)
 
 ## Summary of my repository
